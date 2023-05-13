@@ -34,16 +34,17 @@
                 </div>
             </div>
         </nav>
-        <section class="contact-section bg-black"id="contact">
-            <div class="container-fluid " align='center'>
-                <div class="row ">
-                    <div class="col-md-12">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="card">
-                                    <img class="card-img-top" alt="Bootstrap Thumbnail First" src="assets/img/lelana.jpeg" />
-                                    <div class="card-block">
-                                <p class="card-text">
+        <section class="contact-section bg-black  "id="contact">
+            <br>
+            <div class="container-fluid m-4 px-4 px-lg-5" align="center">
+                <div class="row">
+                    <div class="col-md-4">
+                    </div>
+                    <div class="col-md-4">
+                <div class="card">
+                        <img class="card-img-top" alt="Bootstrap Thumbnail First" src="assets/img/lelana.jpeg" />
+                    <div class="card-block">
+                        <p class="card-text">
                                     <table class="table table-haver">
                                         <tbody>
                                             <tr>
@@ -61,17 +62,19 @@
                                             <tr>   <td>Tipe Pakaian</td><td>2</td></tr>
                                         </tbody>
                                     </table>
-                                </p>
-                                        <p>
-                                            <a class="btn btn-dark" href="index.php">Kembali</a> <a class="btn" href="form_pesanan.php">Pesan</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </p>
+                        <p>
+                            <a class="btn btn-dark" href="index.php">Kembali</a> 
+                            <a class="btn btn-dark" href="form_pesanan.php">Pesan</a>
+                            </p>
                     </div>
                 </div>
-            </div>
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+</div>
+            <br>
         </section>
         </section>
          <section class="contact-section bg-black"id="contact">

@@ -109,7 +109,7 @@
             </form>            
               
                 </div>
-                <div class="social d-flex justify-content-center">
+        <div class="social d-flex justify-content-center">
             </div>
         </section>
          <section class="contact-section bg-black"id="contact">

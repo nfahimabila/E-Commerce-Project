@@ -70,7 +70,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="card">
-                                    <img src="assets/img/WhatsApp Image 2023-04-16 at 17.25.58.jpeg" alt="">
+                                    <img src="assets/img/bella.jpeg" alt="">
                                     <div class="card-block">
                                         <h5 class="card-title text-center" >
                                             Hijab Bella Square
@@ -84,7 +84,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="card">
-                                    <img class="card-img-top" alt="Bootstrap Thumbnail Second" src="assets/img/WhatsApp Image 2023-04-16 at 17.26.00 (1).jpeg" />
+                                    <img class="card-img-top" alt="Bootstrap Thumbnail Second" src="assets/img/ailen2.jpeg" />
                                     <div class="card-block">
                                         <h5 class="card-title text-center">
                                             Ailen Oversize Long Tunik
@@ -101,7 +101,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="card">
-                                    <img class="card-img-top" alt="Bootstrap Thumbnail Third" src="assets/img/WhatsApp Image 2023-04-16 at 17.26.00.jpeg" />
+                                    <img class="card-img-top" alt="Bootstrap Thumbnail Third" src="assets/img/lelana.jpeg" />
                                     <div class="card-block">
                                         <h5 class="card-title">
                                             Lelana Shirt
